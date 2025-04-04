@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\U Fidelitas\\Paradigmas de Programacion\\Presentacion C\u002B\u002B\\ZipCracker V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFC10F3-54FD-4897-B7CE-5189AA2A8A04}|ZipCracker\\ZipCracker.vcxproj|C:\\Users\\gabri\\OneDrive\\Desktop\\U Fidelitas\\Paradigmas de Programacion\\Presentacion C\u002B\u002B\\ZipCracker V1\\ZipCracker\\ZipCracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EEFC10F3-54FD-4897-B7CE-5189AA2A8A04}|ZipCracker\\ZipCracker.vcxproj|solutionrelative:ZipCracker\\ZipCracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipCracker.cpp",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\U Fidelitas\\Paradigmas de Programacion\\Presentacion C\u002B\u002B\\ZipCracker V1\\ZipCracker\\ZipCracker.cpp",
+              "RelativeDocumentMoniker": "ZipCracker\\ZipCracker.cpp",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\U Fidelitas\\Paradigmas de Programacion\\Presentacion C\u002B\u002B\\ZipCracker V1\\ZipCracker\\ZipCracker.cpp",
+              "RelativeToolTip": "ZipCracker\\ZipCracker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T20:09:04.51Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
